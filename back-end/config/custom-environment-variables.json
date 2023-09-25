@@ -1,0 +1,11 @@
+{
+  "mongoDB": {
+    "MONGO_URL": "MONGO_URL"
+  },
+  "server": {
+    "PORT": "PORT"
+  },
+  "auth": {
+    "JWT_SECRET": "JWT_SECRET"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mongoDB": {
+    "MONGO_URL": "mongodb://127.0.0.1/test"
+  },
+  "server": {
+    "PORT": 3000
+  },
+  "auth": {
+    "jwtKey": ""
+  }
+}
