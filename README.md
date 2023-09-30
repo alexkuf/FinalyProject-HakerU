@@ -15,7 +15,7 @@
 ![about1](https://github.com/alexkuf/reactFinalyProject/assets/111445523/a4ea90de-1121-4d42-9485-156fd04aa9fe)
 
 <a
-href="https://fenproject.onrender.com/reports">View Demo website</a>
+href="https://fenproject.onrender.com">View Demo website</a>
 
 </div>
 <!-- ABOUT THE PROJECT -->
